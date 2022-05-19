@@ -1,0 +1,2 @@
+# Penguin-Data-Analysis
+A Penguin dataset which contains data about penguins from Antartica with their different species and types. Performed EDA on this dataset and the results obtained are : Adelie lives in all three islands whereas Gentoo lives in Biscoe and Chinstrap lives in Torgersen, Most of Gentoo has unique flipper length, body mass, culmen depth, Most of adelie culmen length is less than 40mm, Most of the eggs observed in November month, Population of adelie and gentoo increased from 2007 to 2011
